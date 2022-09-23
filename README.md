@@ -1,5 +1,7 @@
 # kogibot
 
+test
+
 ![Kogibot - Java 11](https://github.com/spolti/kogibot/actions/workflows/main-merge-java-11.yml/badge.svg) 
 ![Kogibot - Java 16](https://github.com/spolti/kogibot/actions/workflows/main-merge-java-16.yml/badge.svg)
 ![Kogibot - Java 17](https://github.com/spolti/kogibot/actions/workflows/main-merge-java-17.yml/badge.svg)
